@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shuting Zhang 张淑婷"
+title                    : "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Home Page   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,10 +22,13 @@ repository               : "shutingstar7/shutingstarzhang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Shuting"
-  pronouns         : # example: "she/her"  
-  bio              : "Hello"
+  name             : "Shuting Zhang "
+  pronouns         : "['ʃutɪŋ dʒɑn]"
+  bio              : "PhD Candidate"
+  employer         : "National University of Singapore"
+  email            : "shuting.zhang@u.nus.edu"
 
+# Academic websites
 
 
 # Site Settings
@@ -157,26 +160,23 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  research:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+#   teaching:
+#    output: true
+#    permalink: /:collection/:path/
+#  talks:
+#    output: true
+#   permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
+  # _talks
   - scope:
       path: ""
-      type: posts
+      type: _talks
     values:
       layout: single
       author_profile: true
@@ -200,32 +200,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 
 # Sass/SCSS
