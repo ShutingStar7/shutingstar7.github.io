@@ -12,9 +12,9 @@ title                    : "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Home Page   &nbsp;&n
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://shutingstarzhang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shutingstarzhang.github.io"
+url                      : https://shutingstarzhang.github.io
+baseurl                  : ""
+repository               : "shutingstar7/shutingstarzhang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
