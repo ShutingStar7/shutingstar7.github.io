@@ -14,8 +14,7 @@ Welcome!
 
 
 ---
-I am a PhD candidate at NUS Business School, and I am visiting the Department of Finance of UT McCombs Business School. My research interests lie in urban economics, real estate, and applied microeconomics, with a particular focus on infrastructure, land and housing prices, and sustainability. I am expected to graduate in 2025.
-
+I am a PhD candidate at NUS Business School, and I am visiting the Department of Finance of UT McCombs Business School. My research interests lie in urban economics, real estate, and applied microeconomics, with a particular focus on infrastructure, land and housing prices, and sustainability.
 
 
 
