@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /https://www.dropbox.com/scl/fi/4e2bexiy0obj8rhahfrfg/CV_Shuting-Zhang.pdf?rlkey=arqw79s0byopzegm9al7kokf8&st=n9ef3sbt&dl=0/
+permalink: https://www.dropbox.com/scl/fi/qhsu8w2b4lxbtsvqow2l4/2025_Shuting-Zhang_CV.pdf?rlkey=324jvhjymgtt4sug4zkxcbb7p&e=2&dl=0
 author_profile: true
 redirect_from:
   - /resume
